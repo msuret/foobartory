@@ -8,7 +8,7 @@ Instructions can be found [here](instructions.pdf).
 
 You need the Java Runtime Environment (JRE) version 11 or above to run the application.
 
-1. Download the application Jar file [here](/msuret/foobartory/releases/latest/download/foobartory.jar)
+1. Download the application Jar file [here](https://github.com/msuret/foobartory/releases/latest/download/foobartory.jar)
 2. Execute the Jar file:
 
 ```bash
